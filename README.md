@@ -13,6 +13,8 @@ This is a game I made for my HSC Software Design & Development class, called 'Fl
 - All of the game's assets were created by me, with the exception of some of the background music
 - The code has got comments throughout, hopefully they sufficiently explain everything
 
+Video Demo: [YouTube](https://youtu.be/olzMhSaAjS4)
+
 Have fun!
 
 ## Useful info
