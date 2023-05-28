@@ -4,7 +4,7 @@ A 2D action-platformer built in PyGame with an innovative gravity-switching mech
 ## About the game
 Hello!
 
-This is a game I made for my HSC Software Design & Development class, called 'Flip! Flop! Splat!' (get it, like slip, slop, slap, but flip coz the game's about gravity play hahahahahahahahahahahahahahaha XD i'm so funny)
+This is a game I made for my HSC Software Design & Development class, called 'Flip! Flop! Splat!'.
 
 - One of the requirements of the task was that it had to be built in Python with the Pygame library
 - The game is largely inspired by 'Gravity Guy'
